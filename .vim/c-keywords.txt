@@ -1,0 +1,5 @@
+__attribute_
+__asm__
+__volatile__
+extern
+static
